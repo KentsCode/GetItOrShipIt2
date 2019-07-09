@@ -21,4 +21,4 @@ This was a group project from bootcamp. This code was forked from the last time 
 [Erica Barraca](https://github.com/ebarraca)
 
 ## On the web at 
-[GetItORShipIt](http://quintessacanderson.com/)
+[GetItORShipIt](http://getitorshipit.com/)
